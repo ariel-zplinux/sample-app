@@ -1,1 +1,2 @@
 {"ts":1395755585808,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"class StaticPagesController < ApplicationController\n  def home\n  end\n\n  def help\n  end\nend\n"]],"start1":0,"start2":0,"length1":0,"length2":91}]],"length":91}
+{"contributors":[],"silentsave":false,"ts":1395760608466,"patch":[[{"diffs":[[0,"p\n  end\n"],[1,"\n  def about\n  end\n\n"],[0,"end\n"]],"start1":79,"start2":79,"length1":12,"length2":32}]],"length":111,"saved":false}
