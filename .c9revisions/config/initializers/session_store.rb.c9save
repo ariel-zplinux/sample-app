@@ -1,1 +1,0 @@
-{"ts":1397057520140,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"# Be sure to restart your server when you modify this file.\n\nSampleApp::Application.config.session_store :cookie_store, key: '_sample_app_session'\n"]],"start1":0,"start2":0,"length1":0,"length2":147}]],"length":147}

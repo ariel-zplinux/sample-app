@@ -1,1 +1,0 @@
-{"ts":1395827896949,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"class ApplicationController < ActionController::Base\n  # Prevent CSRF attacks by raising an exception.\n  # For APIs, you may want to use :null_session instead.\n  protect_from_forgery with: :exception\nend\n"]],"start1":0,"start2":0,"length1":0,"length2":204}]],"length":204}
