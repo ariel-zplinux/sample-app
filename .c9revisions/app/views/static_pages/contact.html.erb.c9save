@@ -1,0 +1,2 @@
+{"ts":1398872395161,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1398872335247,"patch":[[{"diffs":[[1,"<% provide(:title, 'Contact') %>\n<h1>Contact</h1>\n<p>\n  Contact Ruby on Rails Tutorial about the sample app at the\n  <a href=\"http://railstutorial.org/contact\">contact page</a>.\n</p>"]],"start1":0,"start2":0,"length1":0,"length2":182}]],"length":182,"saved":false}

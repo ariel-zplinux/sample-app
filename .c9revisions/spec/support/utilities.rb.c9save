@@ -1,0 +1,2 @@
+{"ts":1398873686724,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1398873624309,"patch":[[{"diffs":[[1,"def full_title(page_title)\n  base_title = \"Ruby on Rails Tutorial Sample App\"\n  if page_title.empty?\n    base_title\n  else\n    \"#{base_title} | #{page_title}\"\n  end\nend"]],"start1":0,"start2":0,"length1":0,"length2":168}]],"length":168,"saved":false}
