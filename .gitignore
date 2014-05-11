@@ -16,3 +16,5 @@
 /tmp
 .secret
 .settings
+
+.c9revisions
