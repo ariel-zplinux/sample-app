@@ -1,0 +1,26 @@
+FF..............................
+
+Failures:
+
+  1) profile page 
+     Failure/Error: it { should have_content(user.name) }
+     NoMethodError:
+       undefined method `has_content?' for "profile page":String
+     # ./spec/requests/user_pages_spec.rb:6:in `block (2 levels) in <top (required)>'
+
+  2) profile page 
+     Failure/Error: it { should have_title(user.name) }
+     NoMethodError:
+       undefined method `has_title?' for "profile page":String
+     # ./spec/requests/user_pages_spec.rb:7:in `block (2 levels) in <top (required)>'
+
+Finished in 0.56381 seconds
+32 examples, 2 failures
+
+Failed examples:
+
+rspec ./spec/requests/user_pages_spec.rb:6 # profile page 
+rspec ./spec/requests/user_pages_spec.rb:7 # profile page 
+
+Randomized with seed 55013
+
