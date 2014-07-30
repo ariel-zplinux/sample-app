@@ -16,9 +16,8 @@ gem 'therubyracer'
 gem 'execjs'                                                                                                                 
 gem 'pry'                                                                                                                    
 
-#gem 'rb-readline', '~> 0.4.2'
 
-#gem 'rb-readline',  '~> 0.5.0.pre.1'
+gem 'rb-readline'
 
 
 group :development, :test do
