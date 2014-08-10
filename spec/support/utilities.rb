@@ -1,4 +1,5 @@
 include ApplicationHelper
+=begin
 
 def full_title(page_title)
   base_title = "Ruby on Rails Tutorial Sample App"
@@ -8,6 +9,7 @@ def full_title(page_title)
     "#{base_title} | #{page_title}"
   end
 end
+=end
 
 RSpec::Matchers.define :have_error_message do |message|
   match do |page|
